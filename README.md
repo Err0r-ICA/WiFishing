@@ -22,11 +22,10 @@ cat hacked.txt
 ![Screenshot](https://i.postimg.cc/R9ybM8H2/Screenshot-20200430-042936-Chrome.jpg) 
 
 ### My Accounts
-```
+
 * [TELEGRAM](https://t.me/termuxxhacking)
 
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 
 * [INSTAGRAM](https://instagram.com/termux_hacking)
 
-```
