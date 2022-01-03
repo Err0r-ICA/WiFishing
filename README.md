@@ -1,9 +1,8 @@
 ![logo](https://i.postimg.cc/9Fpf9YYc/Screenshot-20200930-063016-Chrome.jpg)
 
+# Wi-Fi Password Stealer
 
-Wi-Fi Password Stealer
-
-## Commands
+## 💿 Installing 💿
 ```
 git clone https://github.com/Err0r-ICA/JWiFishing 
 
@@ -19,11 +18,11 @@ cat hacked.txt
 
 ```
 
-## Screenshot 
+## 📸 Screenshot 📸
 
 ![Screenshot](https://i.postimg.cc/R9ybM8H2/Screenshot-20200430-042936-Chrome.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
